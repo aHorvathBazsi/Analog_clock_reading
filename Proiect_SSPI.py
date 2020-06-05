@@ -2,7 +2,7 @@
 """
 Created on Tue May  5 13:40:28 2020
 
-@author: Silviu Pirlea, Balazs Horvath
+@author: Balazs Horvath
 """
 
 import cv2
